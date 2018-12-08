@@ -1,3 +1,8 @@
+[B]2.0.3[/B]
+- Add new Icons:
+	Studio
+	Auszeichungen und Co
+
 [B]2.0.2[/B]
 - Add New Icons at all Categories:
 	Infos und Updates
