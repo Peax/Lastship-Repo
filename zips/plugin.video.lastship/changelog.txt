@@ -1,3 +1,16 @@
+[B]3.0.6[/B]
+  01.02.2019
+- Anzeigen, auch englischer Streams von s.to
+- Offline Seiten entfernt
+  view4u.co, szene-streamz.com, movie2k.st
+- [settings.xml] Menü neu geordnet und neu Strukturiert
+- Fix settings.xml Menü Bug
+- add UpNext Funktion (nur Kodi18) in Lastship 
+  Das Addon UpNext muss aber seperat installiert werden
+  Funktioniert wie das alte NextUp Notification. Einstellung angelegt auf 90sek. Restzeit
+  Im UpNext Addon müssen Wiedergabelisten aktiviert sein und Serien müssen per "Ab hier abspielen" gestartet werden
+  NUR Serien!
+
 [B]3.0.5[/B]
   28.01.2019
 - Downloadfunktion Bugfix (Benennung auf Deutsch und Umlaute)
