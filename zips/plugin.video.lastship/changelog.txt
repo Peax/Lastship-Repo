@@ -1,3 +1,16 @@
+[B]3.0.7[/B]
+  03.02.2019
+- Downgrade auf Stand von v3.0.5 (Da sich wahrscheinlich ein Fehler in v3.0.6 eingeschlichen hat)
+- Offline Seiten entfernt
+  view4u.co, szene-streamz.com, movie2k.st
+- [settings.xml] Menü neu geordnet und neu Strukturiert
+- Fix settings.xml Menü Bug
+- Update source_faultlog Url
+
+  Entfernt:
+  - UpNext Funktion im Lastship Menue
+  - Anzeigen, auch englischer Streams von s.to
+
 [B]3.0.6[/B]
   01.02.2019
 - Anzeigen, auch englischer Streams von s.to
