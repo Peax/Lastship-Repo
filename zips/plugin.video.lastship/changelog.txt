@@ -1,3 +1,17 @@
+[B]3.0.9[/B]
+  26.02.2019
+- Update Openload Pairing Hoster (sources.py)
+- Option "Hoster ausschließen" hinzugefügt
+	Die Option ermöglicht es einzelne Hoster auszuschließen ohne Einstellungen im URL-Resolver zu ändern
+	Filter wird nicht auf Debrid-Dienste angewandt
+- Amazon Suche verbessert
+- Updates/Fixes (sources.py, settings.xml)
+- Add Bald verfügbar Kategorie (tvshows/movies/navigator.py)
+	Unter "Bald verfügbar" findet man eine Vorschau von Filmen/Serien die
+	bald veröffentlicht werden (maximal 100, über Trakt realisiert). Zu
+	beachten ist dass es bei sehr neuen Veröffentlichungen sein kann dass
+	noch keine Informationen verfügbar sind.
+
 [B]3.0.8.1[/B]
   14.02.2019
 - Bug Fix s.to (es werden zu wenig HD-Streams angezeigt)
@@ -42,7 +56,7 @@ kinoger, cine, stream-to laufen mit dem neuen cfscrape
   Das Addon UpNext muss aber seperat installiert werden
   Funktioniert wie das alte NextUp Notification. Einstellung angelegt auf 90sek. Restzeit
   Im UpNext Addon müssen Wiedergabelisten aktiviert sein und Serien müssen per "Ab hier abspielen" gestartet werden
-  NUR Serien!
+NUR Serien!
 
 [B]3.0.5[/B]
   28.01.2019
@@ -59,7 +73,7 @@ kinoger, cine, stream-to laufen mit dem neuen cfscrape
 	Der Punkt „IMDB-Listen“ erscheint dann in der Kategorienübersicht der Filme. Standardsortierung ist immer die Sortierung 
 	der Liste
 	Die Einstellung befindet sich unter „Allgemein“ und ist Standardmäßig deaktiviert
-
+	
 [B]3.0.3.0[/B]
   03.01.2019
 - Update fixzipfile (damit das nightly Update auf Android funktioniert)
@@ -212,7 +226,6 @@ kinoger, cine, stream-to laufen mit dem neuen cfscrape
 - Seriesever Konto entfernt
 - Bereits implementierte Einstellung sichtbar gemacht: "Streamsuche vorzeitig abbrechen" 
 - [downloader.py] DE Übersetzung ergänzt
-- Fix Kodi18 Nightly Update Bug
 
 - UTF-8 code (# -*- coding: UTF-8 -*-) hinzugefügt
   - recaptcha_app.py
@@ -242,7 +255,6 @@ kinoger, cine, stream-to laufen mit dem neuen cfscrape
    - [recaptcha_app.py]
 
 [B]3.0.2.6[/B]
-   19.10.2018
  - Fix Nanime Genre
  - nanime Standard: AUS
  - Fix noch nicht ausgestrahlte Episoden in die Bibliothek aufnehmen
@@ -259,6 +271,7 @@ kinoger, cine, stream-to laufen mit dem neuen cfscrape
 - Ausgabe der Downloadanzeige optimiert
 - Fix Trakt Fortsetzungspunkt einstellen -> enabled wenn trakt konto eingestellt
 - Fix bookmark settings
+- Kodi18 Nightly Update Fix (fixzip und updatemanager.py)
 
 [B]3.0.2.4[/B]
   12.10.2018
@@ -351,3 +364,20 @@ kinoger, cine, stream-to laufen mit dem neuen cfscrape
 - Update Duckduckgo
 - Seriesever entfernt, Seite Offline-Umleitung auf Moviesever
 
+[B]2.0.8.3[/B]
+  15.06.2018
+- TMovie entfernt 
+
+[B]2.0.8.2[/B]
+  08.06.2018
+- Update movie2k-sh
+- Add movie4k-lt
+- Alluc Konto entfernt
+- cine.to entfernt (Captcha)
+- Pure-Anime.tv (Seite gibt es nicht mehr)
+- Kategorie Kanäle (Channels) entfernt
+- bs.to (Captcha und API changed) und alluc.ee (Seite stillgelegt) entfernt
+- add vodhd
+- add movie-gg
+- add moovie
+- Update string.po
