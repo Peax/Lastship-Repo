@@ -75,7 +75,7 @@
 		</extension>
 	</addon>
 
-	<addon id="script.lastship.artwork" version="2.0.3" name="Lastship Artwork" provider-name="Lastship">
+	<addon id="script.lastship.artwork" version="2.0.4" name="Lastship Artwork" provider-name="Lastship">
 		<requires>
 			<import addon="xbmc.python" version="2.19.0"/>
 		</requires>
@@ -83,7 +83,7 @@
 		<extension point="xbmc.addon.metadata">
 			<summary>Icons für das Lastship Addon</summary>
 			<description>Themen für Lastship werden seperat aktualisiert und gepflegt um die Verteilung des Addons einfacher zu machen</description>
-			<news>Neue Icons (Studio und Auszeichnungen)</news>
+			<news>Neues Lastship Icon</news>
 			<platform>all</platform>
 		</extension>
 	</addon>
