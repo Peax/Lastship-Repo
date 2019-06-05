@@ -1,3 +1,14 @@
+[B]4.0.1[/B]
+  05.06.2019
+- Movie4k_lt entfernt, Seite Offline
+- movietown entfernt, hinter Cloudflare
+- Neue Trakt API Key's
+- moviedream.ws entfernt (da es die Betreiber Seite überlastet)
+- Update foxx
+- Update filmpalast
+- Update Readme und Lastship Beschreibung in der addon.xml
+- Update Settings.xml
+
 [B]4.0.0[/B]
   04.05.2019
 - Fix Cloudflare
