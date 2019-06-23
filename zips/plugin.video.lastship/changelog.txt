@@ -1,3 +1,9 @@
+[B]4.0.2[/B]
+  23.06.2019
+- nicht legale Anbieter entfernt
+- Code und settings.xml angepasst
+- Lastship Menü angepasst
+
 [B]4.0.1[/B]
   05.06.2019
 - Movie4k_lt entfernt, Seite Offline
